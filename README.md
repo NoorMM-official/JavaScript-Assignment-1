@@ -1,16 +1,19 @@
 # JavaScript-Assignment-1
-Overview  
+Overview :
  This repository contains the solutions to JavaScript programming questions assigned as part of my JavaScript coursework.
  
-Topics Covered
+Topics Covered:
+
  Alerts
  String Variables
  Number Variables
  Legal and Illegal Variable Names
  
-Technologies
+Technologies:
+
  HTML5
  JavaScript
  
-Author
+Author:
+
  Noor ul Ain
